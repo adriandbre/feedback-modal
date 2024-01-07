@@ -3,6 +3,6 @@
 Response in the console as an object.
 
 
-![Desktop](./Screenshots/Desktop.png)
-![Tablet](./Screenshots/Tablet.png)
-![Phone](./Screenshots/Mobile.png)
+![Desktop](./Screenshots/Desktop.jpg)
+![Tablet](./Screenshots/Tablet.jpg)
+![Phone](./Screenshots/Mobile.jpg)
